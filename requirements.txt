@@ -1,0 +1,4 @@
+requests
+pandas
+isodate
+openpyxl
